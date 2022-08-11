@@ -4,8 +4,6 @@ I am a passionate software engineer specialized in Backend / API development wit
 I can speak Java and Kotlin very fluently. \
 Whenever I am not coding I'm playing music!
 
-💬 &nbsp;Feel free to reach out to say hi!
-
 ## ⚙️ &nbsp;GitHub Analytics
 <p>
 <a href="https://github.com/dfjmax">
