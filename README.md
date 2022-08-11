@@ -1,8 +1,15 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
-I am a passionate software engineer specialized in Backend / API development with 15+ years of experience living in Amsterdam.
-I can speak Java and Kotlin very fluently. \
-Whenever I am not coding I'm playing music!
+I am a passionate software engineer specialized in Backend / API development with 15+ years of experience.
+
+Based in Amsterdam 🇳🇱. 
+
+I'm way better at speaking Java and Kotlin than I am at speaking Dutch. 🤓.
+
+Whenever I am not coding I'm playing music! 🤟🤟🤟
+
+## 💌 &nbsp;Get in touch
+- Linkedin: [https://www.linkedin.com/in/maxdifranco](https://www.linkedin.com/in/maxdifranco)
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p>
