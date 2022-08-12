@@ -1,10 +1,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
-I am a passionate software engineer specialized in Backend / API development with 15+ years of experience.
+I am a passionate software engineer specialized in Backend / API development with 15+ years of experience
 
-Based in Amsterdam 🇳🇱. 
+Based in Amsterdam 🇳🇱
 
-I'm way better at speaking Java and Kotlin than I am at speaking Dutch. 🤓.
+I'm way better at speaking Java and Kotlin than I am at speaking Dutch 🤓
 
 Whenever I am not coding I'm playing music or doing sports! 🤟🤟🤟
 
