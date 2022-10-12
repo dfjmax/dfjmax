@@ -18,6 +18,3 @@ Whenever I am not coding I'm playing music or doing sports! 🤟🤟🤟
 </a>
 </p>
 
-## ⭐️ &nbsp;𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dfjmax)
