@@ -11,10 +11,3 @@ Whenever I am not coding I'm playing music or doing sports! 🤟🤟🤟
 ## 💌 &nbsp;Get in touch
 - Linkedin: [https://www.linkedin.com/in/maxdifranco](https://www.linkedin.com/in/maxdifranco)
 
-## ⚙️ &nbsp;GitHub Analytics
-<p>
-<a href="https://github.com/dfjmax">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dfjmax&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-</a>
-</p>
-
