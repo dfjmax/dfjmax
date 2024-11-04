@@ -10,5 +10,5 @@ Whenever I am not coding I'm playing music or doing sports! 🤟🤟🤟
 
 ## 💌 &nbsp;Get in touch
 - Linkedin: [https://www.linkedin.com/in/maxdifranco](https://www.linkedin.com/in/maxdifranco)
-- Medium: [https://medium.com/@max.difranco] (https://medium.com/@max.difranco)
+- Medium: [https://medium.com/@max.difranco](https://medium.com/@max.difranco)
 
